@@ -1,0 +1,30 @@
+body {
+  font-family: "Raleway", sans-serif;
+}
+
+/* Navbar */
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+  margin-top: 0; /* remove the gap so it doesn't close */
+}
+
+h2 {
+  font-family: 'Satisfy', cursive;
+}
+
+/* Portafolio */
+
+#portafolio .image-top {
+  height: 250px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+/* Contacto */
+
+#Contacto form label {
+  font-weight: 700;
+  color: #373a3c;
+}
